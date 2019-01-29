@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd026616-b737-44c6-bac6-c541be636244</dc:identifier>
+        <dc:title>Novel.01.Red.Storm.Rising.1986</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Clancy, Tom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.37) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0100-12-31T22:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Clancy, Tom&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="0100-12-31T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Novel.01.Red.Storm.Rising.1986" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Novel.01.Red.Storm.Rising.1986.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
